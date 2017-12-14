@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class highLow {
+public class HighLow {
 
     public static int numberOfGuesses;
     public static int gameNumber;

@@ -41,7 +41,7 @@ public class Student {
     // Write just enough code in the main method to test the class's methods before using this class elsewhere...
     public static void main(String[] args) {
         System.out.println("Testing the Student class");
-        Student student = new Student("Maggie");
+        Student student = new Student("Neo");
 
         System.out.println("make sure we start with an empty arraylist of grades");
         System.out.println("The number of elements in the grades array is " + student.grades.size());

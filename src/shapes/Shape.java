@@ -1,4 +1,9 @@
 package shapes;
 
-public class Shape {
+public abstract class Shape {
+    protected String nameOfShape;
+
+    public String getNameOfShape() {
+        return nameOfShape;
+    }
 }
